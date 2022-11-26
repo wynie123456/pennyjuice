@@ -1,0 +1,108 @@
+
+
+* {
+    background-color: rgb(236, 244, 244);
+  
+}
+
+
+
+.container {
+    margin: 50px 300px;
+}
+
+.fh {
+    font-family: "Lily Script One";
+}
+
+.fh1 {
+    top: 70px;
+    margin-top: 30px;
+    margin-left: 40px;
+    background-color: transparent;
+}
+.fh, .fh1 {
+    font-size: 2.5rem;
+    position: absolute;
+    left: 200px;
+    color: red;
+    transform: rotate(-20deg);
+    z-index: 1;
+}
+
+ul {
+   
+    position: absolute;
+    left: 27%;
+    
+}
+.list-item {
+    font-family: sans-serif;
+    text-decoration: none;
+    display: inline-block;
+    color: red;
+    padding: 24px;
+    cursor: pointer;
+}
+.list-item:hover {
+    text-decoration: underline;
+    text-decoration-color: rgb(211, 127, 127);
+
+}
+
+.header2 {
+    color: rgb(84, 56, 56);
+    text-shadow: 0 0 0.5px #FF0000;
+    margin: 50px 200px;
+    position: relative;
+    top: 150px;
+    left: 40px;
+   
+}
+
+.header-container {
+    background-image: url("css/gg2.png");
+}
+
+
+    
+
+
+.p-element2 {
+    line-height: 21px;
+    inline-size: 320px;
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+
+.img1 {
+    background-color: transparent;
+    position: relative;
+    left: 620px;
+    top: 70px;
+    width: 300px;
+    height: 205px;
+}
+
+
+.img2 {
+    position: absolute;
+    left: 230px;
+    top: 400px;
+    width: 280px;
+    height: 300px;
+}
+
+.p-element3 {
+    line-height: 21px;
+    background-color: transparent;
+    position: relative;
+    padding-top: 140px;
+
+    
+    left: 650px;
+    inline-size: 320px;
+}
+
+ 
